@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FormularioContactos</string>
+
+    <!--Para el MainLayout -->
+    <string name="mHintNombre">Nombre Completo</string>
+    <string name="mHintTelefono">Télefono</string>
+    <string name="mHintEmail">email</string>
+    <string name="mHintDescripcion">Descripción del contacto</string>
+    <string name="btmText">Siguiente</string>
+
+    <!--Para el confDatos-->
+    <string name="cbtmText">Editar Datos</string>
+</resources>

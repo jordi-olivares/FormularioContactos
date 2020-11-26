@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Para el MainLayout -->
+    <dimen name="mMargenFormulario">20dp</dimen>
+    <dimen name="btmAltura">60dp</dimen>
+    <dimen name="btmTextSize">20dp</dimen>
+    <dimen name="paddingIcon">12dp</dimen>
+    <dimen name="separacion">100dp</dimen>
+</resources>
